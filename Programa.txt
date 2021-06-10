@@ -1,1 +1,8 @@
 Siandien labai siltas vakaras
+
+
+Komandines eilutes komandos kurias naudojau siam failui ikelti i githuba:
+$ \dir> git add .
+$ \dir> git commit -m "pakeitimas per git ir command prompt"
+$ \dir> git push
+$ \dir> git status
